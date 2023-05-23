@@ -1,0 +1,8 @@
+
+g	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ÿ¨™Íýÿÿÿÿ
+U
+java:S1118 ":Add a private constructor to hide the implicit public one.(Ÿ¨™Íýÿÿÿÿ
+K
+java:S1133u"5Do not forget to remove this deprecated code someday.(Ç¾²ë
+=
+java:S1123u"'Add the missing @Deprecated annotation.(Ç¾²ë

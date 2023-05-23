@@ -1,0 +1,49 @@
+
+g
+java:S1192Ã"KDefine a constant instead of duplicating this literal "deviceType" 6 times.(ùÛ¾øùÿÿÿÿ
+j
+java:S1192Ë"NDefine a constant instead of duplicating this literal "metadata.lang" 3 times.(ßÂ„…øÿÿÿÿ
+^
+java:S1192®"GDefine a constant instead of duplicating this literal "widget" 3 times.(ÜŒµ—
+h
+java:S1192“"LDefine a constant instead of duplicating this literal "paymentType" 4 times.(±¡¢üıÿÿÿÿ
+u
+java:S1192™"YDefine a constant instead of duplicating this literal "customer.address.country" 6 times.(‚Ò´¡ÿÿÿÿÿ
+n
+java:S1192¡"RDefine a constant instead of duplicating this literal "paymentProviderId" 5 times.(Äû–šøÿÿÿÿ
+Œ
+java:S1319ú"iThe type of "eventDetails" should be an interface such as "Map" rather than the implementation "HashMap".(‰–ÚÀúÿÿÿÿ8±Âºâş0
+g
+java:S1301ô"KReplace this "switch" statement by "if" statements to increase readability.(²‹›Øüÿÿÿÿ
+b
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(°ìÏÜ
+i
+java:S30087"SRename this field "PROTOCOL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®î
+l
+java:S30088"QRename this field "DOMAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¶íÙúÿÿÿÿ
+h
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(ş§°
+<
+java:S3010" Remove this assignment of "grp".(Âñ³ƒúÿÿÿÿ
+7
+java:S3010 " Remove this assignment of "grp".(÷‚˜
+7
+java:S3010¦" Remove this assignment of "grp".(“Ïµï
+t	java:S131ô"YComplete cases by adding the missing enum constants or add a default case to this switch.(²‹›Øüÿÿÿÿ
+S
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(øí€˜
+f
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(µÛÎ°üÿÿÿÿ
+8	java:S131""Add a default case to this switch.(°ìÏÜ
+W
+java:S1874±"@Remove this use of "shouldOverrideUrlLoading"; it is deprecated.(ñéÌ
+Q
+java:S2209ß"5Change this instance-reference to a static reference.(ó’Ëğúÿÿÿÿ
+U
+java:S4719â"9Replace charset name argument with StandardCharsets.UTF_8(Óü’Éùÿÿÿÿ
+?	java:S108ã")Either remove or fill this block of code.(”ı¾
+T
+java:S1117é"8Rename "data" which hides the field declared at line 75.(»Î‰¦ıÿÿÿÿ
+
+java:S1157Ÿ"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ê©°ãùÿÿÿÿ
+?	java:S108±")Either remove or fill this block of code.(”ı¾
